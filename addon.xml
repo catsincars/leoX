@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="leoX" name="Leo Loves Pap" version="1.0.1" provider-name="catsincars">
+	<requires>
+		<import addon="xbmc.python" version="2.14.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Popup Hi Leo</summary>
+		<description lang="en">Example to encourge my sons to learn how to develop software like daddy</description>
+		<license>GNU General Public License, v2</license>
+		<language></language>
+		<forum>http://forum.kodi.tv/showthread.php?tid=209948</forum>
+		<source>https://github.com/catsincars/leoX</source>
+		<website>www.southcoastsbs.com</website>
+		<email>catsincars@gmail.com</email>
+		<assets>
+			<icon>leonanicon.png</icon>
+			<fanart>ryantireswing.jpg</fanart>
+			<screenshot>resources/pjryan.jpg</screenshot>
+			<screenshot>resources/pidge-andmom.jpg</screenshot>
+			<screenshot>resources/kirstenleomall.jpg</screenshot>
+		</assets>
+		<news>Updated the addon to use new addon.xml metadata</news>
+	</extension>
+</addon>
