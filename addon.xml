@@ -17,11 +17,11 @@
 		<website>www.southcoastsbs.com</website>
 		<email>catsincars@gmail.com</email>
 		<assets>
-			<icon>leonanicon.png</icon>
-			<fanart>ryantireswing.jpg</fanart>
-			<screenshot>resources/pjryan.jpg</screenshot>
-			<screenshot>resources/pidge-andmom.jpg</screenshot>
-			<screenshot>resources/kirstenleomall.jpg</screenshot>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<news>Updated the addon to use new addon.xml metadata</news>
 	</extension>
