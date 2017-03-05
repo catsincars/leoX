@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="leoX" name="Leo Loves Pap" version="1.0.1" provider-name="catsincars">
+<addon id="leoXVersion2" name="Leo Loves Pap" version="3.0.1" provider-name="catsincars">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 	</requires>
